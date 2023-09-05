@@ -1,0 +1,14 @@
+#calculatorcontainer
+{
+    
+    top: 26rem;
+    height: 36rem;
+}
+.calculator
+{
+    width: 90%;
+}
+footer
+{
+    top: 29rem;
+}
